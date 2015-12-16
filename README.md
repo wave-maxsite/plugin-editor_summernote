@@ -1,0 +1,1 @@
+# plugin-editor_summernote
